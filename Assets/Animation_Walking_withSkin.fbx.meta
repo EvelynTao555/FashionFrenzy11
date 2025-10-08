@@ -1,0 +1,516 @@
+fileFormatVersion: 2
+guid: ea9f8daaeb73da749b9f019625d12544
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.7
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: PUFFER_AND_SWEATS:Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PUFFER_AND_SWEATS:LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PUFFER_AND_SWEATS:RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PUFFER_AND_SWEATS:LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PUFFER_AND_SWEATS:RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PUFFER_AND_SWEATS:LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PUFFER_AND_SWEATS:RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PUFFER_AND_SWEATS:Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PUFFER_AND_SWEATS:Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PUFFER_AND_SWEATS:Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PUFFER_AND_SWEATS:Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PUFFER_AND_SWEATS:LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PUFFER_AND_SWEATS:RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PUFFER_AND_SWEATS:LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PUFFER_AND_SWEATS:RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PUFFER_AND_SWEATS:LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PUFFER_AND_SWEATS:RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PUFFER_AND_SWEATS:LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PUFFER_AND_SWEATS:RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PUFFER_AND_SWEATS:LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PUFFER_AND_SWEATS:RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PUFFER_AND_SWEATS:LeftHandIndex1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PUFFER_AND_SWEATS:LeftHandIndex2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PUFFER_AND_SWEATS:LeftHandIndex3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PUFFER_AND_SWEATS:RightHandIndex1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PUFFER_AND_SWEATS:RightHandIndex2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PUFFER_AND_SWEATS:RightHandIndex3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: PUFFER_AND_SWEATS:Spine2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Animation_Walking_withSkin(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PUFFER_AND_SWEATS:polySurface15polySurface31
+      parentName: Animation_Walking_withSkin(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: PUFFER_AND_SWEATS:polySurface29
+      parentName: Animation_Walking_withSkin(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: PUFFER_AND_SWEATS:polySurface30polySurface15
+      parentName: Animation_Walking_withSkin(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: PUFFER_AND_SWEATS:Hips
+      parentName: Animation_Walking_withSkin(Clone)
+      position: {x: -0.000005709498, y: 0.010484666, z: 0.000038930477}
+      rotation: {x: 0.017075123, y: -0.016562678, z: -0.0074118325, w: 0.9996895}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PUFFER_AND_SWEATS:Spine
+      parentName: PUFFER_AND_SWEATS:Hips
+      position: {x: -0, y: 0.0009367904, z: -0.00006808174}
+      rotation: {x: 0.017479027, y: 0.011092607, z: 0.009139449, w: 0.99974394}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PUFFER_AND_SWEATS:Spine1
+      parentName: PUFFER_AND_SWEATS:Spine
+      position: {x: -0, y: 0.0010958046, z: 2.9753243e-13}
+      rotation: {x: 0.021565795, y: 0.022030074, z: -0.008715034, w: 0.99948674}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PUFFER_AND_SWEATS:Spine2
+      parentName: PUFFER_AND_SWEATS:Spine1
+      position: {x: -0, y: 0.001252348, z: -2.7640395e-13}
+      rotation: {x: 0.021317348, y: 0.021733806, z: -0.009709313, w: 0.99948937}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PUFFER_AND_SWEATS:RightShoulder
+      parentName: PUFFER_AND_SWEATS:Spine2
+      position: {x: 0.0008956255, y: 0.0011890916, z: -0.000011894939}
+      rotation: {x: 0.58239716, y: 0.41684204, z: -0.5518984, w: 0.4271585}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PUFFER_AND_SWEATS:RightArm
+      parentName: PUFFER_AND_SWEATS:RightShoulder
+      position: {x: -6.184844e-14, y: 0.0018235822, z: -7.343755e-13}
+      rotation: {x: -0.14364752, y: 0.13214299, z: -0.012443272, w: 0.9806879}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PUFFER_AND_SWEATS:RightForeArm
+      parentName: PUFFER_AND_SWEATS:RightArm
+      position: {x: 1.7446644e-13, y: 0.0019039238, z: 3.5432386e-12}
+      rotation: {x: -0.01034413, y: -0.0025151216, z: 0.023931319, w: 0.999657}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PUFFER_AND_SWEATS:RightHand
+      parentName: PUFFER_AND_SWEATS:RightForeArm
+      position: {x: -7.83917e-13, y: 0.0029807596, z: 2.425881e-13}
+      rotation: {x: 0.051932048, y: -0.016375309, z: 0.0046784068, w: 0.9985054}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PUFFER_AND_SWEATS:RightHandIndex1
+      parentName: PUFFER_AND_SWEATS:RightHand
+      position: {x: -3.4744782e-13, y: 0.00020915405, z: -2.5937365e-14}
+      rotation: {x: 0.06597682, y: -0.6452339, z: -0.041456748, w: 0.76000106}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PUFFER_AND_SWEATS:RightHandIndex2
+      parentName: PUFFER_AND_SWEATS:RightHandIndex1
+      position: {x: 2.8615203e-12, y: 0.00020095978, z: 4.0395207e-13}
+      rotation: {x: 0.35272565, y: -0.011459047, z: -0.2223935, w: 0.9088424}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PUFFER_AND_SWEATS:RightHandIndex3
+      parentName: PUFFER_AND_SWEATS:RightHandIndex2
+      position: {x: -0.00008786745, y: 0.00016927137, z: -0.00016093614}
+      rotation: {x: -0.038574122, y: 0.27135172, z: 0.30831453, w: 0.9109459}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PUFFER_AND_SWEATS:RightHandIndex4
+      parentName: PUFFER_AND_SWEATS:RightHandIndex3
+      position: {x: 0.00009791604, y: 0.00012254328, z: -0.00009489504}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PUFFER_AND_SWEATS:Neck
+      parentName: PUFFER_AND_SWEATS:Spine2
+      position: {x: -0, y: 0.0014088906, z: -3.6119146e-11}
+      rotation: {x: 0.03206372, y: -0.018636376, z: 0.0014744676, w: 0.99931103}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PUFFER_AND_SWEATS:Head
+      parentName: PUFFER_AND_SWEATS:Neck
+      position: {x: -0, y: 0.0014866764, z: 0.00030196985}
+      rotation: {x: -0.0040572477, y: -0.018659307, z: 0.0019652767, w: 0.99981576}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PUFFER_AND_SWEATS:HeadTop_End
+      parentName: PUFFER_AND_SWEATS:Head
+      position: {x: -0, y: 0.0032991716, z: 0.0006701193}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PUFFER_AND_SWEATS:LeftShoulder
+      parentName: PUFFER_AND_SWEATS:Spine2
+      position: {x: -0.0008956255, y: 0.0011896814, z: -0.000020010237}
+      rotation: {x: 0.6036667, y: -0.4048133, z: 0.5496492, w: 0.41182345}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PUFFER_AND_SWEATS:LeftArm
+      parentName: PUFFER_AND_SWEATS:LeftShoulder
+      position: {x: 3.7481978e-13, y: 0.0018235822, z: -7.1055694e-13}
+      rotation: {x: -0.11988631, y: -0.22344877, z: 0.08611905, w: 0.9634737}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PUFFER_AND_SWEATS:LeftForeArm
+      parentName: PUFFER_AND_SWEATS:LeftArm
+      position: {x: -3.0196706e-13, y: 0.0019039221, z: 3.7089962e-12}
+      rotation: {x: -0.0054270755, y: 0.0008122471, z: -0.029603628, w: 0.99954665}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PUFFER_AND_SWEATS:LeftHand
+      parentName: PUFFER_AND_SWEATS:LeftForeArm
+      position: {x: 1.1565277e-13, y: 0.0029807235, z: 9.189989e-14}
+      rotation: {x: -0.00048018686, y: 0.896009, z: 0.097339764, w: 0.43323493}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PUFFER_AND_SWEATS:LeftHandIndex1
+      parentName: PUFFER_AND_SWEATS:LeftHand
+      position: {x: -3.689371e-12, y: 0.00019419336, z: 4.4493616e-13}
+      rotation: {x: -0.07525816, y: 0.9734782, z: -0.024877436, w: 0.21461026}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PUFFER_AND_SWEATS:LeftHandIndex2
+      parentName: PUFFER_AND_SWEATS:LeftHandIndex1
+      position: {x: 1.2757594e-13, y: 0.00035995478, z: 3.5101672e-12}
+      rotation: {x: 0.6457416, y: -0.022178704, z: 0.03533942, w: 0.7624153}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PUFFER_AND_SWEATS:LeftHandIndex3
+      parentName: PUFFER_AND_SWEATS:LeftHandIndex2
+      position: {x: 0.000027446697, y: 0.0000548399, z: -0.0002844786}
+      rotation: {x: 0.734518, y: 0.6258905, z: 0.22655119, w: 0.13198127}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PUFFER_AND_SWEATS:LeftHandIndex4
+      parentName: PUFFER_AND_SWEATS:LeftHandIndex3
+      position: {x: 0.000007987607, y: -0.000044086704, z: 0.0001144846}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PUFFER_AND_SWEATS:RightUpLeg
+      parentName: PUFFER_AND_SWEATS:Hips
+      position: {x: 0.0014921252, y: -0.0005229364, z: -0.00003650898}
+      rotation: {x: 0.05907065, y: 0.07537934, z: 0.9954019, w: 0.0019045218}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PUFFER_AND_SWEATS:RightLeg
+      parentName: PUFFER_AND_SWEATS:RightUpLeg
+      position: {x: 3.05635e-11, y: 0.0045416853, z: 5.4024203e-12}
+      rotation: {x: -0.13105267, y: 0.028906256, z: 0.0026870004, w: 0.9909503}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PUFFER_AND_SWEATS:RightFoot
+      parentName: PUFFER_AND_SWEATS:RightLeg
+      position: {x: -2.05871e-13, y: 0.0044200965, z: -3.5414148e-12}
+      rotation: {x: 0.56784016, y: 0.121270314, z: 0.0074849986, w: 0.81412226}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PUFFER_AND_SWEATS:RightToeBase
+      parentName: PUFFER_AND_SWEATS:RightFoot
+      position: {x: -7.1713273e-12, y: 0.0011552616, z: -2.0338545e-11}
+      rotation: {x: 0.26398334, y: -0.14306352, z: 0.034737777, w: 0.95322555}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PUFFER_AND_SWEATS:RightToe_End
+      parentName: PUFFER_AND_SWEATS:RightToeBase
+      position: {x: -2.4549954e-12, y: 0.00076418574, z: 1.7619977e-12}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PUFFER_AND_SWEATS:LeftUpLeg
+      parentName: PUFFER_AND_SWEATS:Hips
+      position: {x: -0.0014921252, y: -0.0005229364, z: -0.00009130108}
+      rotation: {x: -0.09290616, y: 0.1397786, z: 0.98560065, w: 0.020535896}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PUFFER_AND_SWEATS:LeftLeg
+      parentName: PUFFER_AND_SWEATS:LeftUpLeg
+      position: {x: 1.0450365e-12, y: 0.004540417, z: 1.7880101e-12}
+      rotation: {x: -0.34120315, y: -0.04679537, z: 0.015625989, w: 0.93869406}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PUFFER_AND_SWEATS:LeftFoot
+      parentName: PUFFER_AND_SWEATS:LeftLeg
+      position: {x: -1.1918582e-11, y: 0.004420568, z: -8.6310825e-13}
+      rotation: {x: 0.46376505, y: -0.09859995, z: 0.048666675, w: 0.8791084}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PUFFER_AND_SWEATS:LeftToeBase
+      parentName: PUFFER_AND_SWEATS:LeftFoot
+      position: {x: 2.1802395e-12, y: 0.0011650604, z: -3.7373568e-12}
+      rotation: {x: 0.28928083, y: 0.13874523, z: -0.034452308, w: 0.9465091}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PUFFER_AND_SWEATS:LeftToe_End
+      parentName: PUFFER_AND_SWEATS:LeftToeBase
+      position: {x: 5.2517745e-13, y: 0.00077759137, z: 1.1019178e-12}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.0069999998
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
